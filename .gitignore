@@ -1,0 +1,21 @@
+.vscode/launch.json
+.vscode/tasks.json
+obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+obj/Debug/net7.0/apphost.exe
+obj/Debug/net7.0/C# Stopwatch.AssemblyInfo.cs
+obj/Debug/net7.0/C# Stopwatch.AssemblyInfoInputs.cache
+obj/Debug/net7.0/C# Stopwatch.assets.cache
+obj/Debug/net7.0/C# Stopwatch.csproj.CoreCompileInputs.cache
+obj/Debug/net7.0/C# Stopwatch.csproj.FileListAbsolute.txt
+obj/Debug/net7.0/C# Stopwatch.dll
+obj/Debug/net7.0/C# Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net7.0/C# Stopwatch.genruntimeconfig.cache
+obj/Debug/net7.0/C# Stopwatch.GlobalUsings.g.cs
+obj/Debug/net7.0/C# Stopwatch.pdb
+obj/Debug/net7.0/ref/C# Stopwatch.dll
+obj/Debug/net7.0/refint/C# Stopwatch.dll
+obj/C# Stopwatch.csproj.nuget.dgspec.json
+obj/C# Stopwatch.csproj.nuget.g.props
+obj/C# Stopwatch.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
